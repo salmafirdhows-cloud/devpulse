@@ -77,25 +77,6 @@ This is the key product insight: metrics without context are noise. The interpre
 
 ---
 
-## 🗣️ Interview Q&A Prep
-
-**"Why did you pick this scope?"**
-The assignment says a focused MVP is stronger than a broad unfinished one. IC view → interpretation → next steps is the core user journey. Manager view adds a layer without overcomplicating.
-
-**"What would you add next?"**
-Real API integration (Jira webhook + GitHub API), a trend chart showing the last 3 months, and a team comparison view so managers can spot outliers.
-
-**"How did you use AI responsibly?"**
-Used AI to understand the workbook, scaffold the initial structure, and debug layout issues. Everything in the codebase I can explain line by line — the interpretation logic thresholds, the data model, the routing. I didn't submit anything I didn't understand.
-
-**"Why no backend?"**
-For an MVP with 8 developers and 16 data points, a backend would be infra overhead with no product benefit. The interesting engineering problem here is the interpretation layer, not data fetching. I'd add a real API layer in v2.
-
-**"What does cycle time tell you that lead time doesn't?"**
-Cycle time measures the dev's own work speed (ticket in-progress to done). Lead time measures the whole pipeline from PR to prod. A high lead time with a low cycle time usually means the bottleneck is outside the dev — in review wait, CI, or deployment scheduling.
-
----
-
 ## 📦 Data Source
 
 Based on the workbook: `intern_assignment_support_pack_dev_only_v3.xlsx`
