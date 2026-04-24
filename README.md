@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevPulse — Developer Productivity MVP
 
 A focused full-stack MVP that helps developers move from raw DORA-style metrics to understanding and action.
@@ -102,3 +103,6 @@ Based on the workbook: `intern_assignment_support_pack_dev_only_v3.xlsx`
 - 8 developers across 3 teams
 - 2 months of data: March and April 2026
 - Metrics calculated per assignment spec definitions
+=======
+# devpulse
+>>>>>>> 4b93faff5dfca12fd14c50817b6a1d2095d5bdf4
