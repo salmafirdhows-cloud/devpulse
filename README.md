@@ -11,7 +11,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
 **live at:** https://devpulse-self.vercel.app/
 
 ---
